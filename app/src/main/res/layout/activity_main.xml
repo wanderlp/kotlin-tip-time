@@ -73,10 +73,10 @@
 
     <TextView
         android:id="@+id/tip_result"
-        android:text="Tip Amount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/calculte_button"/>
+        app:layout_constraintTop_toBottomOf="@id/calculte_button"
+        tools:text="Tip Amount" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
