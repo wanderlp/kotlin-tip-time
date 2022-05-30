@@ -7,4 +7,8 @@
     <string name="ok_service">Ok (15%)</string>
     <string name="round_up_tip">Round up tip?</string>
     <string name="calculate">Calculate</string>
+    <string name="primary_color">Primary Color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary Color</string>
+    <string name="email_icon">email icon</string>
 </resources>
