@@ -11,4 +11,5 @@
     <string name="button">Button</string>
     <string name="secondary_color">Secondary Color</string>
     <string name="email_icon">email icon</string>
+    <string name="tip_amount">Tip Amount: %s</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Tip Time</string>
     <string name="cost_of_service">Cost of Service</string>
     <string name="how_was_the_service">How was the service?</string>
     <string name="amazing_service">Amazing (20%)</string>
@@ -7,4 +8,9 @@
     <string name="ok_service">Ok (15%)</string>
     <string name="round_up_tip">Round up tip?</string>
     <string name="calculate">Calculate</string>
+    <string name="primary_color">Primary Color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary Color</string>
+    <string name="email_icon">email icon</string>
+    <string name="tip_amount">Tip Amount: %s</string>
 </resources>
